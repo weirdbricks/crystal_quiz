@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  toml:
+    git: https://github.com/crystal-community/toml.cr.git
+    version: 0.7.0+git.commit.4b6325e2a378bac4abc98ee4d5734d57a6a55554
+

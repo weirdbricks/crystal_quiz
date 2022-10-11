@@ -1,0 +1,9 @@
+question = "Which one of those albums is the first album by Black Sabbath ?"
+
+possible_answers = [
+  "Black Sabbath",
+  "Paranoid",
+  "Master of Reality"
+]
+
+correct_answer = "Black Sabbath"

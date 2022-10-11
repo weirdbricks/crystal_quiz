@@ -1,0 +1,9 @@
+question = "Which one of those bands is not from the United Kingdom ?"
+
+possible_answers = [
+  "Carcass",
+  "Arch Enemy",
+  "Bolt Thrower"
+]
+
+correct_answer = "Arch Enemy" 

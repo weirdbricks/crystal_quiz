@@ -1,0 +1,9 @@
+question = "Which one of those is not an Iron Maiden album ?"
+
+possible_answers = [
+  "Peace of Mind",
+  "... And Justice for All",
+  "Dance of Death"
+]
+
+correct_answer = "... And Justice for All" 

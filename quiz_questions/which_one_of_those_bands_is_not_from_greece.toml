@@ -1,0 +1,9 @@
+question = "Which one of those bands is not from Greece ?"
+
+possible_answers = [
+  "Septic Flesh",
+  "Rotting Christ",
+  "Samael"
+]
+
+correct_answer = "Samael" 

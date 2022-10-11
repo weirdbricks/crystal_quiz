@@ -1,0 +1,9 @@
+question = "Which Megadeth album came out in 1990 ?"
+
+possible_answers = [
+  "Countdown to Extinction",
+  "Rust in Peace",
+  "So far, so good, so what!"
+]
+
+correct_answer = "Rust in Peace" 

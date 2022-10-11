@@ -1,0 +1,9 @@
+question = "Which one of those Black Sabbath albums is Ronnie James Dio singing on ?"
+
+possible_answers = [
+  "Heaven and Hell",
+  "Paranoid",
+  "Master of Reality"
+]
+
+correct_answer = "Heaven and Hell"
